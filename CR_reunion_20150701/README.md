@@ -1,6 +1,6 @@
 **Compte-rendu de la réunion du 01/07/2015**
 
-Lieu : locaux du centre de formation ECAir (salle n° 9).
+Lieu : salle n° 9 du centre de formation ECAir.
 
 Horaires : de 15h45 à 17h45.
 
