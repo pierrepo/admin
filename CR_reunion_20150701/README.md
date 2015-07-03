@@ -73,7 +73,7 @@ L'étape 1 nécessite l'acquisition d'un microscope permettant de numériser des
 
 Objectif : application pour remonter et centraliser les cas clinques de paludisme.
 
-Plateforme : mobile pour la partie client et web pour la partie dashboard.
+Plateforme : mobile pour la partie client et desktop pour la partie dashboard.
 
 Partie client, depuis les centres de santé : remonter les cas cliniques de paludisme avec les informations suivantes :
 
@@ -93,7 +93,7 @@ Partie client, depuis les centres de santé : remonter les cas cliniques de palu
     
 Partie dashboard, depuis le centre de contrôle : suivre les cas de palu.
 
-Le centre de santé de la FCRM situé à Massissia est pret à servir de pilote pour la partie cliente. Les bureaux de la FCRM situés à l'OMS pourront servir de centre de contrôle. 
+Le centre de santé de la FCRM situé à Massissia est prêt à servir de pilote pour la partie cliente. Les bureaux de la FCRM situés à l'OMS pourront servir de centre de contrôle. 
 
 Un serveur devra être loué pour :
 
