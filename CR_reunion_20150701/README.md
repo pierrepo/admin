@@ -158,19 +158,19 @@ A titre d'information, une connexion 3G avec 1,5 Go de données par jour pendant
 
 ### Compte développeur Google
 
-Un compte développeur Google doit être acheté pour mettre les applications développées par Fongwama sur le Google Store.
+Un compte développeur Google doit être acheté pour que les applications développées par Fongwama soient installables depuis Google Store.
 
-Un compte développeur coute 12 500 XAF (à vie).
+Un compte développeur coute 12 500 XAF. La licence est valable à vie.
 
 ### Fontaine à eau
 
-Les développeurs ont besoin d'une fontaine à eau pour travailler dans de bonnes conditions.
+Les développeurs ont besoin d'eau potable pour travailler dans de bonnes conditions.
 
 La fontaine à eau du centre de formation n'est pas fonctionnelle. Est-il possible de remédier à cela ?
 
 ### Protection du matériel
 
-Les développeurs souhaiteraient que les mini-PC soient enfermés dans des boitiers pour éviter d'être volés. 
+Les développeurs souhaitent que les mini-PC soient enfermés dans des boitiers pour éviter d'être volés. 
 
 
 # Conclusion
@@ -186,3 +186,4 @@ Il faut également acheter un compte développeur Google et louer un serveur pou
 Copie du tableau prise à l'issue de la réunion.
 
 ![Copie du tableau](20150701_tableau_réunion_dev.jpg)
+
